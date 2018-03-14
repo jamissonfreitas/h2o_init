@@ -17,4 +17,4 @@ h2o.init()
 h2o.demo("glm")
 ```
 # Acess
-[localhost](localhost:54321)
+[localhost](http://localhost:54321)
